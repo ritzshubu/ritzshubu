@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @ritzshubu
-- 👀 I’m interested in Web-Development,  Software Development and Web Designing Projects
-- 🌱 I’m currently learning B.Tech(CSE) from REVA University, Bengaluru
-- 💞️ I’m looking to collaborate on projects related to my interest domains
-- 📫 You can reach me out on shubham.ssr30@gmail.com
+- 👋 Hey there! wassup, it's your friendly neighborhood ~spiderman~ developer, Shubham 🤐.
+- 👀 My interested techs are: Java, Angular, Flutter, NextJs, React and Humans(jk, I'm just interested to know about humans) and bad jokes.
+- 🌱 I’m a Full stack developer by profession.
+- 💞️ I'm very result oriented person, and always in hunt of likewise mind of developers.
+- 📫 Please do visit my portfolio at shubhamrathour.com. Also, you can reach me out anytime on shubham.ssr30@gmail.com
 
-<!---
-ritzshubu/ritzshubu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
